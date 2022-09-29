@@ -3,11 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-### Actualizado desde GitHub
-Este es un mensaje editado desde Git Hub!!!!
-##Prueba cambiando a ff only
-
-Only fastforward p
+## Estos cambios son nuevos desde local
