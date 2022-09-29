@@ -1,3 +1,4 @@
+![Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png)
 # Objetivos de la repositorio
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
@@ -22,6 +23,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
   * d3
   * d4
   
-  ![Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png)
+  
   
   Esto es un _texto_
